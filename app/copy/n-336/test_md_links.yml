@@ -1,6 +1,6 @@
 name: <%= Form::N336 %>
 title: "Welcome to the Request for a Hearing on a Decision in Naturalization Proceedings"
-start_app_title: "Completing your request online Test a change has been made"
+start_app_title: "Completing your request online Test a"
 form_description: "A Request for a Hearing on a Decision in Naturalization Proceedings can be made after your Application for Naturalization has been denied.<br/><br/> Requests must be submitted within <b>30 days of receiving your decision notice</b> in order to be considered. <br/><br/>By submitting a request, you are asking that a higher-level officer at USCIS review your case and any additional materials that you provide.<br/><br/>We will schedule your hearing within 180 days of receiving your request if your request was correctly submitted.<br/><br/><a href='https://www.uscis.gov/n-336'>Learn more about requesting a hearing</a>"
 fee_title: "Fee: $650"
 fee: "If you are applying for a fee waiver, you cannot submit your request online and will need to file a paper form instead. <br/> <a href='https://www.uscis.gov/feewaiver'>Learn more about filing a fee waiver</a>"
