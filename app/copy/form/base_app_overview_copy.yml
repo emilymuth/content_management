@@ -1,0 +1,16 @@
+## Forms Application Overview Copy across all forms ##
+
+submit_online: "Submitting online"
+submit_online_text: "Submitting your request online is the same as mailing in a completed paper form. They both gather the same information and cost the same."
+before_submit_request: "Before you submit your request"
+eligibility_title: "Your eligibility"
+documents_title: "Documents you need"
+after_submit_request: "After you submit your request"
+track_status: "Track your request status"
+respond_to_requests: "Respond to requests for evidence"
+privacy_act_statement: 'AUTHORITIES: The information requested on this request, and the associated evidence, is collected under the Immigration and Nationality Act, section 101, et seq.<br/><br/>PURPOSE: The primary purpose for providing the requested information on this request is to determine if you have established eligibility for the immigration benefit for which you are filing. The information you provided will be used to grant or deny the benefit sought.<br/><br/>DISCLOSURE: The information you provide is voluntary. However, failure to provide the requested information, and any requested evidence, may delay a final decision in your case or result in denial of your request. <br/><br/>ROUTINE USES: The information you provide on this request may be shared with other Federal, State, local, and foreign government agencies and authorized organizations following approved routine uses described in the associated published system of records notices [DHS-USCIS-007 - Benefits Information System and DHS-USCUS-001 - Alien File, Index, and National File Tracking System of Records,  which can be found at <a href="http://www.dhs.gov/privacy">www.dhs.gov/privacy</a>]. The information may also be made available, as appropriate, for law enforcement purposes or in the interest of national security.'
+privacy_act_statement_title: "Privacy Act Statement"
+security_reminder: "If you do not work on your request for more than 30 days, we will delete your data in order to prevent storing personal information indefinitely. If your data is deleted, you can restart the request at any time."
+paperwork_reduction_title: "Paperwork Reduction Act Burden Disclosure Notice"
+security_reminder_title: "Security reminder"
+continue_request: "How to continue your request"

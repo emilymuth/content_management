@@ -1,8 +1,8 @@
 name: <%= Form::N336 %>
 title: "Welcome to the Request for a Hearing on a Decision in Naturalization Proceedings"
-start_app_title: "Completing your request online Test"
+start_app_title: "Completing your request online"
 form_description: "A Request for a Hearing on a Decision in Naturalization Proceedings can be made after your Application for Naturalization has been denied.<br/><br/> Requests must be submitted within <b>30 days of receiving your decision notice</b> in order to be considered. <br/><br/>By submitting a request, you are asking that a higher-level officer at USCIS review your case and any additional materials that you provide.<br/><br/>We will schedule your hearing within 180 days of receiving your request if your request was correctly submitted.<br/><br/><a href='https://www.uscis.gov/n-336'>Learn more about requesting a hearing</a>"
-fee_title: "Fee: $200"
+fee_title: "Fee: $650"
 fee: "If you are applying for a fee waiver, you cannot submit your request online and will need to file a paper form instead. <br/> <a href='https://www.uscis.gov/feewaiver'>Learn more about filing a fee waiver</a>"
 time_title: "Time burden: 2 hours and 45 minutes"
 time_burden: "It is estimated that it will take you 2 hours and 45 minutes to complete and submit this request."
@@ -26,5 +26,5 @@ continue_request: "After you start your request, you can go to your account to s
 start_application_path: <%= Rails.application.routes.url_helpers.start_application_n336_path %>
 start_form_path: ""
 app_overview_path: <%= Rails.application.routes.url_helpers.n336_path%>
-privacy_statement: "application_overview/privacy_statement_act"
-paperwork_reduction_act: "application_overview/n-336/paperwork_reduction_act"
+privacy_statement: "privacy_statement_act"
+paperwork_reduction_act: "n-336/paperwork_reduction_act"
