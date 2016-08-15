@@ -1,0 +1,30 @@
+name: <%= Form::N336 %>
+title: "Welcome to the Request for a Hearing on a Decision in Naturalization Proceedings"
+start_app_title: "Completing your request online"
+form_description: "A Request for a Hearing on a Decision in Naturalization Proceedings can be made after your Application for Naturalization has been denied.<br/><br/> Requests must be submitted within <b>30 days of receiving your decision notice</b> in order to be considered. <br/><br/>By submitting a request, you are asking that a higher-level officer at USCIS review your case and any additional materials that you provide.<br/><br/>We will schedule your hearing within 180 days of receiving your request if your request was correctly submitted.<br/><br/><a href='https://www.uscis.gov/n-336'>Learn more about requesting a hearing</a>"
+fee_title: "Fee: $650"
+fee: "If you are applying for a fee waiver, you cannot submit your request online and will need to file a paper form instead. <br/> <a href='https://www.uscis.gov/feewaiver'>Learn more about filing a fee waiver</a>"
+time_title: "Time burden: 2 hours and 45 minutes"
+time_burden: "It is estimated that it will take you 2 hours and 45 minutes to complete and submit this request."
+your_eligibility: "You are eligible to submit a request if you believe your Application for Naturalization (N-400) was incorrectly denied and you would like to request a hearing with an immigration officer."
+documents_you_need: "Before starting the Request for a Hearing on a Decision in Naturalization Proceedings (N-336), you may want to gather any documents that support your request."
+track_request_status: "After you submit your request, you can track its status through your USCIS account. Sign into your account often to check on your case status and read any important messages from USCIS. "
+response_rfe: "We will send you a Request for Evidence (RFE) if your request is missing the required evidence or if the reviewing officer needs more documentation to support your responses. You should respond to any RFEs as soon as possible."
+post_application_steps: 
+  - label: "Attend your hearing"
+    step_description: "You will be scheduled for a hearing within 180 days after you correctly submit your request. This hearing will be similar to your naturalization interview, but will be with a different USCIS officer. We may ask that you provide more information or evidence, or ask that you submit original documents."
+    image_link: "application_overview/attend_hearing_icon"
+complete_online:
+  - label: "Complete the Getting Started section first"
+    description: "You should answer all questions in the Getting Started section first so we can best customize the rest of your online request experience."
+  - label: "Provide as many responses as you can"
+    description: "You should provide as many responses as you can, to the best of your knowledge, throughout the application. Incomplete fields or sections and missing information can slow down the process after you submit your application."
+  - label: "Save your responses as you go"
+    description: 'We will automatically save your information when you select "next" to go to a new page or navigate to another section of the request. We will save your information for 30 days from today, or from the last time you worked on your request.'
+paperwork_reduction_act: "An agency may not conduct or sponsor information collection, and a person is not required to respond to a collection of information, unless Form N-336 displays a current valid OMB control number. The public reporting burden for this collection of information is estimated at 2 hours and 45 minutes per response. This includes the time to review the instructions, as well as complete and submit your Form N-336. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to: <br/> <br/>U.S. Citizenship and Immigration Services Regulatory Coordination Division <br/>Office of Policy and Strategy <br/>20 Massachusetts Ave NW <br/>Washington, DC 20529-2140 <br/><br/>Do not mail your completed Form N-336 to this address.<br/>OMB No. <b>1615-0050</b>."
+continue_request: "After you start your request, you can go to your account to see your cases and continue where you left off."
+start_application_path: <%= Rails.application.routes.url_helpers.start_application_n336_path %>
+start_form_path: ""
+app_overview_path: <%= Rails.application.routes.url_helpers.n336_path%>
+privacy_statement: "privacy_statement_act"
+paperwork_reduction_act: "n-336/paperwork_reduction_act"
