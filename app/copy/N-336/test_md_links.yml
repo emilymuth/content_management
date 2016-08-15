@@ -27,4 +27,4 @@ start_application_path: <%= Rails.application.routes.url_helpers.start_applicati
 start_form_path: ""
 app_overview_path: <%= Rails.application.routes.url_helpers.n336_path%>
 privacy_statement: "privacy_statement_act"
-paperwork_reduction_act: "n-336/paperwork_reduction_act"
+paperwork_reduction_act: "N-336/paperwork_reduction_act"
